@@ -1,4 +1,6 @@
-﻿class Grab 
+#Do not use for malicious purposes 
+#If you do you, you will definitely get caught so maybe do use for malicious purposes if you already where going to ? 
+class Grab 
 {
 [IPAddress]$IP
 [int]$PORT
